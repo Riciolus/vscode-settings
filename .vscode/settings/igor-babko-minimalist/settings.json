@@ -1,5 +1,13 @@
 
 // https://www.youtube.com/watch?v=VmFOsK7IhI4&t=2155s&ab_channel=IgorBabko + modified
+// extension requirements :
+                        // {
+                        //   "recommendations": [
+                        //     "pkief.material-icon-theme",
+                        //     "subframe7536.custom-ui-style"
+                        //   ]
+                        // }
+
 
 {
   "workbench.colorTheme": "Catppuccin Mocha",
